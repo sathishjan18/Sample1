@@ -14,8 +14,6 @@ public class College extends Dept {
 		public static void main(String[] args) {
 			College c= new College();
 			c.collegeName();
-			c.collegeCode();
-			c.collegeRank();
 			c.deptName();
 			c.studentName();
 			c.studentDept();
